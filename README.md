@@ -1,4 +1,6 @@
 # MPM_matlab
 
 ## Author: Ziheng Ge, University of Science and Technology of China
-This program is for Material Point Method (MPM) simulation. The constitutive models for jelly, water and snow, as well as transfrer schemes of Polynomial Particle-in-cell (PPIC) and Divergenc-free Particle-in-Cell (DFPIC) are implemented.
+Here are two programs for Material Point Method (MPM) simulation. 
+Program `MPM` implemented constitutive models for jelly, water and snow, and these materials can be coupled naturally.
+Program `DFPIC` implemented transfrer schemes of Polynomial Particle-in-cell (PPIC) and Divergenc-free Particle-in-Cell (DFPIC).
